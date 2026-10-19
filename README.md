@@ -50,12 +50,13 @@ Ce projet consiste en la mise en place et la configuration complète d'une infra
 
 ---
 
-## 📸 Preuves Techniques & Captures d'Écran
+### 1. Structure Active Directory & Compte Utilisateur
+![Active Directory](docs/images/ad_ou_user.jpg)
+*Création de l'OU Utilisateurs-AP et validation du compte Pierre Dupont.*
 
-### 1. Validation du Tableau de Bord
+### 2. Validation du Tableau de Bord
 ![Dashboard](docs/images/dashboard.jpg)
 *Rôles AD DS, DHCP et DNS opérationnels sur le Gestionnaire de Serveur.*
-
 ---
 
 ## 🚀 Prochaines Étapes (Roadmap)
